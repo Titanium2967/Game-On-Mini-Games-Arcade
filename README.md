@@ -24,18 +24,27 @@ Built using Pygame as its GUI. It is the user interface for storing their data i
 
 V. Menu Page:
 Game-On! provides the user with an interactive menu page that gives the user access to:
+
 a)	Rock-Paper-Scissors! 
+
 b)	Tic-tac-toe
+
 c)	Hangman
+
 d)	Dashboard
+
 e)	Quit Application Button
 Constructed using Pygame as its graphical user interface.
 
 VI. Dashboard:
 No project is entirely complete without a proper analysis. Game-On! provides its users with an interactive dashboard and displays:
+
 a)	Leaderboard of top 3 players 
+
 b)	User score
+
 c)	Number of games played by user
+
 d)	Percentage pie chart of games played by user.
 It is built using tkinter as it is a GUI application and uses modules such as matplotlib to provide the user with data in pictorial forms such as bar graphs and pie charts which makes it easier to obtain a consolidated analysis. 
 
