@@ -4,6 +4,7 @@ Users can log in, select the game they wish to play from the menu page, and enjo
 Scores are awarded for each win, and remain exclusive for a user throughout their game history. 
 
 Game On! - Mini Games Arcade can be briefly divided into the following components:
+
 I.	Tic-Tac-Toe! is played on a 3x3 grid in Single Player Mode where the Player competes against the computer. 
 The first player marks their moves with a cross and the computer does so with a circle. Whomever first forms a horizontal, vertical, or diagonal sequence of three marks, is declared the winner.
 This program draws the game board, asks the user for the coordinates of the next mark, swaps between the players after every successive move, and displays the winner.
