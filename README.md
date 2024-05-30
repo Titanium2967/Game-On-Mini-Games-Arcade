@@ -40,6 +40,7 @@ e)	Quit Application Button
 Constructed using Pygame as its graphical user interface.
 
 
+
 VI. Dashboard:
 No project is entirely complete without a proper analysis. Game-On! provides its users with an interactive dashboard and displays:
 
