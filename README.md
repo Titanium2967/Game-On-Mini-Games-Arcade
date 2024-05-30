@@ -2,6 +2,7 @@
 “Game on! –Mini Games Arcade” is a simple and interactive gaming application which provides the user with three game options- the classic, all-time favorites: Rock-Paper-Scissors, Tic-Tac-Toe and Hangman.
 Users can log in, select the game they wish to play from the menu page, and enjoy themselves!  “Game on!” also allows the user to assess their performance through an interactive dashboard, displaying their progress and preferences. 
 Scores are awarded for each win, and remain exclusive for a user throughout their game history. 
+
 Game On! - Mini Games Arcade can be briefly divided into the following components:
 I.	Tic-Tac-Toe! is played on a 3x3 grid in Single Player Mode where the Player competes against the computer. 
 The first player marks their moves with a cross and the computer does so with a circle. Whomever first forms a horizontal, vertical, or diagonal sequence of three marks, is declared the winner.
